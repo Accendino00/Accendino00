@@ -6,7 +6,14 @@
 
 ###
 
-<p align="center">🇮🇹IT 🇬🇧EN 🇯🇵JP<br>健全なる魂は、健全なる精神と健全なる肉体に宿る。</p>
+<p align="center">🇮🇹IT 🇬🇧EN 🇯🇵JP</p>
+
+###
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Japanese&weight=500&size=18&pause=2000&color=F7F7F7&background=1EFF76B3&center=true&vCenter=true&random=false&width=435&lines=%E5%81%A5%E5%85%A8%E3%81%AA%E3%82%8B%E9%AD%82%E3%81%AF%E3%80%81%E5%81%A5%E5%85%A8%E3%81%AA%E3%82%8B%E7%B2%BE%E7%A5%9E%E3%81%A8%E5%81%A5%E5%85%A8%E3%81%AA%E3%82%8B%E8%82%89%E4%BD%93%E3%81%AB%E5%AE%BF%E3%82%8B%E3%80%82)](https://git.io/typing-svg)
+</div>
 
 ###
 
