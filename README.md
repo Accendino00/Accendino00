@@ -1,6 +1,5 @@
-<h3 align="center">SE studying at UNIBO.</h3>
+<h3 align="center">⚡CS student, enrolled at UNIBO⚡</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
