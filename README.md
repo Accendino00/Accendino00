@@ -25,10 +25,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c2/93/88/c29388dc5b95279fb6c70441fc9d59e6.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -81,6 +77,11 @@
   <a href="https://discordapp.com/users/94418899189116928" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+</div>
+
+###
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/c2/93/88/c29388dc5b95279fb6c70441fc9d59e6.gif" />
 </div>
 
 ###
